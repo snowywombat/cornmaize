@@ -1,0 +1,7 @@
+<html>
+<body>
+	<video width="600" height="600" controls autoplay>
+ 	<source src="bigfoot.mp4"
+ 	type="video/mp4">
+</html>
+<body>
